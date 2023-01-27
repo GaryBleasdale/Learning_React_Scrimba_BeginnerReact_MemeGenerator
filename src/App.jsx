@@ -5,9 +5,10 @@ import Input from './components/Input'
 function App() {
 
 
+
   return (
     <div className="App text-sm">
-      <Header/>
+      <Header />
       <Input/>
     </div>
   )
